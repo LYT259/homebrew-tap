@@ -13,7 +13,7 @@ cask "pathblender" do
     regex(/^v(0\.1\.10(?:-beta\.\d+)?)$/i)
   end
 
-  depends_on macos: :ventura
+  depends_on macos: ">= :ventura"
 
   app "PathBlender.app"
 end
