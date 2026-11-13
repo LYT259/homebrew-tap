@@ -1,6 +1,6 @@
 cask "pathblender" do
-  version "0.1.10-beta.17"
-  sha256 "10a4bc788a661b38c03f2fc89fc587620f51819c659f451dfa260f162a0f7879"
+  version "0.1.10-beta.21"
+  sha256 "c529d8854ba46fdc57ffde93fc44635ddb34fcd3396150773307a6be57f0d34e"
 
   url "https://github.com/LYT259/pathblender/releases/download/v#{version}/PathBlender_#{version}_universal.dmg"
   name "PathBlender"
